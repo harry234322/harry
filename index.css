@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body,html {
+    height: 100%;
+    width: 100%;
+    background-image: url(backgoundimg.jpeg);
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#imgtag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#imgtag p{
+    padding-top: 320px;
+    font-size: 40px;
+    font-weight: 600;
+}
